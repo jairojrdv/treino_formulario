@@ -1,9 +1,7 @@
 body{
-    background-image: url(./images/istockphoto-601902710-170667a.jpg);
+    background-image: url(./images/dumbbell_2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position-y: -100px;
-    background-position-x: center;
     background-attachment: fixed;
 }
 main {
